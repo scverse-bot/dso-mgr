@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/scverse/cookiecutter-scverse",
-  "commit": "67879607ef256cf2dc2bb3c7ddbd615d8606f238",
-  "checkout": null,
+  "commit": "497afeaf179fe5c1144c4503046efa494586cc3d",
+  "checkout": "test4",
   "context": {
     "cookiecutter": {
       "project_name": "dso-mgr",
@@ -23,7 +23,8 @@
         "lstrip_blocks": true,
         "trim_blocks": true
       },
-      "_template": "https://github.com/scverse/cookiecutter-scverse"
+      "_template": "https://github.com/scverse/cookiecutter-scverse",
+      "_commit": "497afeaf179fe5c1144c4503046efa494586cc3d"
     }
   },
   "directory": null

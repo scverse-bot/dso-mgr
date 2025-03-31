@@ -11,7 +11,7 @@ Automatically run the correct version of dso through uv
 ## Installation
 
 You need to have Python 3.10 or newer installed on your system.
-If you don't have Python installed, we recommend installing [Mambaforge][].
+If you don't have Python installed, we recommend installing [uv][].
 
 There are several alternative options to install dso-mgr:
 

@@ -1,0 +1,14 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -47,10 +47,10 @@ If you found a bug, please use the [issue tracker][].
+ 
+ > t.b.a
+ 
+-[mambaforge]: https://github.com/conda-forge/miniforge#mambaforge
++[uv]: https://github.com/astral-sh/uv
+ [scverse discourse]: https://discourse.scverse.org/
+ [issue tracker]: https://github.com/Boehringer-Ingelheim/dso-mgr/issues
+-[tests]: https://github.com/Boehringer-Ingelheim/dso-mgr/actions/workflows/test.yml
++[tests]: https://github.com/Boehringer-Ingelheim/dso-mgr/actions/workflows/test.yaml
+ [documentation]: https://dso-mgr.readthedocs.io
+ [changelog]: https://dso-mgr.readthedocs.io/en/latest/changelog.html
+ [api documentation]: https://dso-mgr.readthedocs.io/en/latest/api.html
